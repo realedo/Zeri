@@ -1,2 +1,2 @@
-# Zeri
-Zeri is a work in progress riot api based on python. Zeri is strictly ideated for the Italian League of Legends Community
+# Codes
+I store there all my scripts and files. The python application is alredy builded into a simple exe you can find in /riotapi/dist/riotapi.exe
