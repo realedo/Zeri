@@ -1,9 +1,18 @@
-# Zeri
+# Zeri 
+
 Zeri is a work in progress riot api based on python. Zeri is strictly ideated for the Italian League of Legends Community
 
+# Version/Patch Notes
+
+Zeri is now updated at alpha 1.01 featuring tkinr ui( prev used only terminal)
+
 # How does it work
-Now Zeri is only a simple python program that given summoner name and region calls riot api for all kind of informations
+
+Now Zeri is only a simple python program that given summoner name and region calls riot api for all kind of informations.
+all the data is collected by tkiner input. The api is ten called and the data is written in the terminal(soon going to be deleted) and then displayed in tkinter labels. The terminal is visible(soon going to be deleted).
 
 # What comes next
-My idea is to make a simple Ui for the script so i can release a closed beta dist of my file to a small comunity.
-Then i want Zeri to work closely with a javascript program to display inputs and outputs to a HTML page
+
+The app now runs on tkinker. Future udates will be featuring full last game data and beter ui while not supporting visible terminal anymore.
+the next step would be building a full functioning application for beta testing.
+then i make the py application work with a javascript one to make it work on HTML
