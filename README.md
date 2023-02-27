@@ -6,6 +6,8 @@ Zeri is a work in progress riot api based on python. Zeri is strictly ideated fo
 
 Zeri is now updated at alpha 1.01 featuring tkinr ui( prev used only terminal)
 
+Zeri is now updated to alpha 1.02 feturing Window icon, backgroud, new window format and challenger ladder(top10) for selected region. Still using logs in terminal
+
 # How does it work
 
 Now Zeri is only a simple python program that given summoner name and region calls riot api for all kind of informations.
