@@ -8,6 +8,8 @@ Zeri is now updated at alpha 1.01 featuring tkinter ui( prev used only terminal)
 
 Zeri is now updated to alpha 1.02 feturing Window icon, backgroud, new window format and challenger ladder(top10) for selected region. Still using logs in terminal
 
+Zeri is now updated to alpha 1.03 feturing better ui(text labels dont show anymore when noting is typed onto them) and bug fixes. only.py file is ditributed as you have to manually copy path for images(icon and background) you can find in 1.02 release.
+
 # How does it work
 
 Now Zeri is only a simple python program that given summoner name and region calls riot api for all kind of informations.
