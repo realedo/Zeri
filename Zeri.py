@@ -51,7 +51,7 @@ def get_sum_name():
 
         ##Return summoner name and level + get puuid
         print("LOG: Riot Api initialised")
-        api_key = "RGAPI-9ad0f880-5b17-4274-bd80-2275fa27dda4"#note thats personal dev key lasts 24 h
+        api_key = "YOUR_API_KEY"#note thats personal dev key lasts 24 h
 
         ##call summoner 4
         api_url_Summonerv5 = "https://" + region +".api.riotgames.com/lol/summoner/v4/summoners/by-name/"+ summName
