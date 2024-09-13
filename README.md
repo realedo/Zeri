@@ -23,3 +23,6 @@ all the data is collected by tkiner input. The api is ten called and the data is
 The app now runs on tkinker. Future udates will be featuring full last game data and beter ui while not supporting visible terminal anymore.
 the next step would be building a full functioning application for beta testing.
 then i make the py application work with a javascript one to make it work on HTML
+
+# Womp Womp
+riot chnged how the API works so i have to remake the app from scratch
