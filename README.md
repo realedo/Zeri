@@ -24,5 +24,6 @@ The app now runs on tkinker. Future udates will be featuring full last game data
 the next step would be building a full functioning application for beta testing.
 then i make the py application work with a javascript one to make it work on HTML
 
-# Womp Womp
+# Farewell?
+
 riot chnged how the API works so i have to remake the app from scratch
